@@ -1,8 +1,11 @@
-import Image from "next/image";
-import Footer from "./components/footer";
+// import Image from "next/image";
+// import Footer from "./components/footer";
+
+// import favicon from "./favicon.ico";
+// import Counter from "./components/count";
+
+
 import HelloWorld from "./components/helloworld";
-import favicon from "./favicon.ico";
-import Counter from "./components/count";
 
 export default function Home() {
   const name = "Saikiran";
